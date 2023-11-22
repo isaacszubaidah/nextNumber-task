@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Get the result element by its ID
   const resultElement = document.getElementById('result');
 
-  // The initial first number to go next od previous from 
+  // The initial first number to go next / previous from 
   let currentNumber = 1;
 
   // show number when user comes onto the page for the first time
